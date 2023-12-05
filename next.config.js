@@ -1,9 +1,5 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true,
+module.exports = {
   images: {
-    domains: ["gateway.ipfscdn.io"],
+    domains: ['bafybeiazvt2kzvx2ujmzpuzvrudu77pg3beurdpcbj6cqht57ghd6edeki.ipfs.cf-ipfs.com'],
   },
-};
-
-module.exports = nextConfig;
+}
